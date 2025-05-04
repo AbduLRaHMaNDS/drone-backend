@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+depthai
+firebase-admin
+python-multipart
+opencv-python-headless
